@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:7201,
-to:7290,
+from:7291,
+to:7380,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -87,8 +87,8 @@ visible:'1'
 si522:{
 name:'Paragraph_1',
 type:1268,
-from:6091,
-to:7200,
+from:7381,
+to:8490,
 rp:0,
 rpa:0,
 mdi:'si522c',
@@ -254,8 +254,8 @@ vb:[-1,-1,1,1]
 si530:{
 name:'Paragraph_Group_1',
 type:1268,
-from:6091,
-to:7200,
+from:7381,
+to:8490,
 rp:0,
 rpa:0,
 mdi:'si530c',
@@ -588,8 +588,8 @@ vb:[-1,-1,2,2]
 si610:{
 name:'Text_1',
 type:1250,
-from:6091,
-to:7200,
+from:7381,
+to:8490,
 rp:0,
 rpa:0,
 mdi:'si610c',
@@ -619,7 +619,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"65a3d","text":"Classroom Actions: The 7-Day Reset (Micro-Lesson)","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":49,"style":"hlnk:"},{"offset":0,"length":49,"style":"hlnkt:wp"},{"offset":0,"length":49,"style":"textOutlineEnable:false"},{"offset":0,"length":49,"style":"opacity:1"},{"offset":0,"length":49,"style":"hlnke:true"},{"offset":0,"length":49,"style":"backgroundColor:unset"},{"offset":0,"length":49,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":49,"style":"textHighlightEnable:false"},{"offset":0,"length":49,"style":"textShadowEnable:false"},{"offset":0,"length":49,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-heading-2","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"65a3d","text":"Classroom Actions: The 7-Day Reset ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":35,"style":"hlnk:"},{"offset":0,"length":35,"style":"hlnkt:wp"},{"offset":0,"length":35,"style":"textOutlineEnable:false"},{"offset":0,"length":35,"style":"opacity:1"},{"offset":0,"length":35,"style":"hlnke:true"},{"offset":0,"length":35,"style":"backgroundColor:unset"},{"offset":0,"length":35,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":35,"style":"textHighlightEnable:false"},{"offset":0,"length":35,"style":"textShadowEnable:false"},{"offset":0,"length":35,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-heading-2","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:-1,
 trin:0,
@@ -739,8 +739,8 @@ vb:[-1,-1,2,2]
 si546:{
 name:'Text_2',
 type:1250,
-from:6091,
-to:7200,
+from:7381,
+to:8490,
 rp:0,
 rpa:0,
 mdi:'si546c',
@@ -770,7 +770,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"7gan1","text":"8–10 minutes | Self-paced micro-lesson","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":38,"style":"overridden:true"},{"offset":0,"length":38,"style":"textDecoration:none"},{"offset":0,"length":38,"style":"textTransform:uppercase"},{"offset":0,"length":38,"style":"borderBottomStyle:none"},{"offset":0,"length":38,"style":"textShadowEnable:false"},{"offset":0,"length":38,"style":"hlnk:"},{"offset":0,"length":38,"style":"fontWeight:normal"},{"offset":0,"length":38,"style":"textShadowBlur:8px"},{"offset":0,"length":38,"style":"desktop-fontSize:24"},{"offset":0,"length":38,"style":"fontFamily:Arial"},{"offset":0,"length":38,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":38,"style":"backgroundColor:unset"},{"offset":0,"length":38,"style":"fontStyle:normal"},{"offset":0,"length":38,"style":"hlnkt:wp"},{"offset":0,"length":38,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":38,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":38,"style":"textOutlineEnable:false"},{"offset":0,"length":38,"style":"tablet-fontSize:32"},{"offset":0,"length":38,"style":"opacity:1"},{"offset":0,"length":38,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":38,"style":"hlnke:true"},{"offset":0,"length":38,"style":"defaultTextShadow:none"},{"offset":0,"length":38,"style":"mobile-fontSize:28"},{"offset":0,"length":38,"style":"textShadow:none"},{"offset":0,"length":38,"style":"textShadowX:0px"},{"offset":0,"length":38,"style":"fontStretch:normal"},{"offset":0,"length":38,"style":"fontType:regular"},{"offset":0,"length":38,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":38,"style":"letterSpacing:5%"},{"offset":0,"length":38,"style":"textShadowY:4px"},{"offset":0,"length":38,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":38,"style":"textHighlightEnable:false"},{"offset":0,"length":38,"style":"color:#020C1C"},{"offset":0,"length":38,"style":"lineHeight:110%"},{"offset":0,"length":38,"style":"textShadowOpacity:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-subheading-1","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"7gan1","text":"Self-paced micro-lesson","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":23,"style":"textDecoration:none"},{"offset":0,"length":23,"style":"textTransform:uppercase"},{"offset":0,"length":23,"style":"borderBottomStyle:none"},{"offset":0,"length":23,"style":"textShadowEnable:false"},{"offset":0,"length":23,"style":"hlnk:"},{"offset":0,"length":23,"style":"fontWeight:normal"},{"offset":0,"length":23,"style":"textShadowBlur:8px"},{"offset":0,"length":23,"style":"desktop-fontSize:24"},{"offset":0,"length":23,"style":"fontFamily:Arial"},{"offset":0,"length":23,"style":"backgroundColor:unset"},{"offset":0,"length":23,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":23,"style":"hlnkt:wp"},{"offset":0,"length":23,"style":"fontStyle:normal"},{"offset":0,"length":23,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":23,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":23,"style":"textOutlineEnable:false"},{"offset":0,"length":23,"style":"tablet-fontSize:32"},{"offset":0,"length":23,"style":"opacity:1"},{"offset":0,"length":23,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":23,"style":"hlnke:true"},{"offset":0,"length":23,"style":"defaultTextShadow:none"},{"offset":0,"length":23,"style":"mobile-fontSize:28"},{"offset":0,"length":23,"style":"textShadow:none"},{"offset":0,"length":23,"style":"textShadowX:0px"},{"offset":0,"length":23,"style":"fontStretch:normal"},{"offset":0,"length":23,"style":"fontType:regular"},{"offset":0,"length":23,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":23,"style":"letterSpacing:5%"},{"offset":0,"length":23,"style":"textShadowY:4px"},{"offset":0,"length":23,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":23,"style":"textHighlightEnable:false"},{"offset":0,"length":23,"style":"color:#020C1C"},{"offset":0,"length":23,"style":"lineHeight:110%"},{"offset":0,"length":23,"style":"textShadowOpacity:none"},{"offset":0,"length":23,"style":"overridden:true"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"true","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-subheading-1","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -70908,8 +70908,8 @@ vb:[682,383,684,385]
 Slide427:{
 lb:'01_Start_LongScroll',
 id:427,
-from:6091,
-to:7200,
+from:7381,
+to:8490,
 iols:0,
 i360qs:false,
 sdu:37,
@@ -71807,7 +71807,7 @@ usedFonts:'["Georgia","Arial"]'
 },
 trecs:[{
 link:427,
-text:['""','""','""','""','""','""']
+text:['""','""','""','""','""','""','""']
 }
 ]
 
@@ -72131,14 +72131,7 @@ resources:['dr/010153.jpeg','dr/010183.jpeg','dr/010198.jpeg','dr/012067.png','d
 
 }
 ];
-cp.model.audioresources=[{
-slideID:0,
-ResourceList:{
-resources:['ar/KeyClick.mp3']
-}
-
-}
-];
+cp.model.audioresources=[];
 cp.model.videoresources=[{
 slideID:0,
 ResourceList:{
@@ -72155,7 +72148,6 @@ cp.model.slideVideos=[
 cp.model.tocVideos=[
 ];
 cp.model.audios=[
-'ar/KeyClick.mp3'
 ];
 
 cp.initVariables = function(){
