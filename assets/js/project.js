@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:7291,
-to:7380,
+from:9691,
+to:9780,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -87,8 +87,8 @@ visible:'1'
 si522:{
 name:'Paragraph_1',
 type:1268,
-from:7381,
-to:8490,
+from:8581,
+to:9690,
 rp:0,
 rpa:0,
 mdi:'si522c',
@@ -254,8 +254,8 @@ vb:[-1,-1,1,1]
 si530:{
 name:'Paragraph_Group_1',
 type:1268,
-from:7381,
-to:8490,
+from:8581,
+to:9690,
 rp:0,
 rpa:0,
 mdi:'si530c',
@@ -588,8 +588,8 @@ vb:[-1,-1,2,2]
 si610:{
 name:'Text_1',
 type:1250,
-from:7381,
-to:8490,
+from:8581,
+to:9690,
 rp:0,
 rpa:0,
 mdi:'si610c',
@@ -6850,8 +6850,8 @@ vb:[19,19,22,22]
 si7986:{
 name:'Carousel_Widget_1',
 type:1268,
-from:6091,
-to:7200,
+from:8581,
+to:9690,
 rp:0,
 rpa:0,
 mdi:'si7986c',
@@ -6875,7 +6875,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"visibilityInfo":{"slide-item-body":true,"container-slider-buttons":false,"slide-item-heading":true,"slide-item-widget-body":true,"slide-item-next-button":true,"slide-item-prev-button":true,"slide-item-widget-instructions":true,"card":false,"title":true,"slide-item-image":true,"container-navigator-buttons":false},"alignment":{"container-slider-buttons":"MIDDLE","slide-item-heading":"LEFT","slide-item-widget-body":"LEFT","slide-item-widget-instructions":"LEFT","title":"LEFT","slide-item-body":"LEFT"},"canBeCard":false,"isForcedNavigationEnabled":true,"contentSpacing":2,"widgetLayout":{"value":"F"},"padding":{"isDTMLinked":true,"mobile":{"left":4,"right":4,"top":5,"bottom":16},"tablet":{"left":4,"right":4,"top":8,"bottom":28},"left":4,"right":4,"top":15,"bottom":50},"widgetFlow":{"value":"RL"},"activeImage":{"value":0},"designOptionStyles":{"all":{"flexDirection":"column"},"tablet":{},"mobile":{}},"appearanceProperties":{},"isAutoLoadingEnabled":{"value":false,"timeInterval":2}}',
+widgetProps:'{"visibilityInfo":{"slide-item-body":true,"container-slider-buttons":true,"slide-item-heading":true,"slide-item-widget-body":true,"slide-item-next-button":false,"slide-item-prev-button":false,"slide-item-widget-instructions":true,"card":false,"title":true,"slide-item-image":true,"container-navigator-buttons":true},"alignment":{"container-slider-buttons":"MIDDLE","slide-item-heading":"LEFT","slide-item-widget-body":"LEFT","slide-item-widget-instructions":"LEFT","title":"LEFT","slide-item-body":"LEFT"},"canBeCard":false,"isForcedNavigationEnabled":true,"contentSpacing":2,"widgetLayout":{"value":"F"},"padding":{"isDTMLinked":true,"mobile":{"left":4,"right":4,"top":5,"bottom":16},"tablet":{"left":4,"right":4,"top":8,"bottom":28},"left":4,"right":4,"top":15,"bottom":50},"widgetFlow":{"value":"RL"},"activeImage":{"value":0},"designOptionStyles":{"all":{"flexDirection":"column"},"tablet":{},"mobile":{}},"appearanceProperties":{},"isAutoLoadingEnabled":{"value":false,"timeInterval":2}}',
 retainState:false,
 immo:false,
 apsn:'Slide427',
@@ -24033,8 +24033,8 @@ vb:[9,9,12,12]
 si9311:{
 name:'Tabs_Widget_1',
 type:1268,
-from:6091,
-to:7200,
+from:8581,
+to:9690,
 rp:0,
 rpa:0,
 mdi:'si9311c',
@@ -24058,7 +24058,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"visibilityInfo":{"slide-item-body":true,"slide-item-heading":true,"slide-item-widget-body":true,"slide-item-next-button":true,"slide-item-prev-button":true,"slide-item-widget-instructions":true,"card":false,"slide-item-subtitle":true,"title":true,"slide-item-image":true},"autoFit":false,"alignment":{"slide-item-heading":"LEFT","slide-item-widget-body":"LEFT","slide-item-widget-instructions":"LEFT"},"canBeCard":false,"isForcedNavigationEnabled":true,"contentSpacing":2,"widgetLayout":{"value":"F"},"tabSpacing":{"isDerivedFromChild":true},"activeTab":{"value":4},"padding":{"top":30,"bottom":15,"left":4,"right":4,"tablet":{"top":40,"right":4,"left":4,"bottom":40},"mobile":{"top":40,"right":4,"left":4,"bottom":40},"isDTMLinked":false},"designOptionStyles":{"all":{"flexDirection":"column"},"tablet":{},"mobile":{}},"appearanceProperties":{},"numberOfTabs":{"value":5}}',
+widgetProps:'{"visibilityInfo":{"slide-item-body":true,"slide-item-heading":true,"slide-item-widget-body":true,"slide-item-next-button":false,"slide-item-prev-button":false,"slide-item-widget-instructions":true,"card":false,"slide-item-subtitle":true,"title":true,"slide-item-image":true},"autoFit":false,"alignment":{"slide-item-heading":"LEFT","slide-item-widget-body":"LEFT","slide-item-widget-instructions":"LEFT"},"canBeCard":false,"isForcedNavigationEnabled":true,"contentSpacing":2,"widgetLayout":{"value":"F"},"tabSpacing":{"isDerivedFromChild":true},"activeTab":{"value":4},"padding":{"top":30,"bottom":30,"left":4,"right":4,"tablet":{"top":40,"right":4,"left":4,"bottom":40},"mobile":{"top":40,"right":4,"left":4,"bottom":40},"isDTMLinked":false},"designOptionStyles":{"all":{"flexDirection":"column"},"tablet":{},"mobile":{}},"appearanceProperties":{},"numberOfTabs":{"value":5}}',
 retainState:false,
 immo:false,
 apsn:'Slide427',
@@ -70908,8 +70908,8 @@ vb:[682,383,684,385]
 Slide427:{
 lb:'01_Start_LongScroll',
 id:427,
-from:7381,
-to:8490,
+from:8581,
+to:9690,
 iols:0,
 i360qs:false,
 sdu:37,
@@ -71190,21 +71190,21 @@ deviceType:1,
 width:1366,
 height:768,
 isSelected:true,
-orientation:0
+orientation:1
 }
 ,{
 deviceType:2,
 width:768,
 height:1024,
 isSelected:false,
-orientation:0
+orientation:1
 }
 ,{
 deviceType:3,
 width:430,
 height:844,
 isSelected:false,
-orientation:0
+orientation:1
 }
 ]
 
@@ -71807,7 +71807,7 @@ usedFonts:'["Georgia","Arial"]'
 },
 trecs:[{
 link:427,
-text:['""','""','""','""','""','""','""']
+text:['""','""','""','""','""','""','""','""']
 }
 ]
 
@@ -72131,7 +72131,14 @@ resources:['dr/010153.jpeg','dr/010183.jpeg','dr/010198.jpeg','dr/012067.png','d
 
 }
 ];
-cp.model.audioresources=[];
+cp.model.audioresources=[{
+slideID:0,
+ResourceList:{
+resources:['ar/KeyClick.mp3']
+}
+
+}
+];
 cp.model.videoresources=[{
 slideID:0,
 ResourceList:{
@@ -72148,6 +72155,7 @@ cp.model.slideVideos=[
 cp.model.tocVideos=[
 ];
 cp.model.audios=[
+'ar/KeyClick.mp3'
 ];
 
 cp.initVariables = function(){
